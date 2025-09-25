@@ -1,0 +1,35 @@
+#header {
+background-color: lightblue;
+width: 75%;
+height: 150px;
+float: right;
+}
+
+#nav {
+background-color: lightpink;
+width: 25%;
+height: 750px;
+float: left;
+}
+
+#main {
+background-color: lime;
+width: 50%;
+height: 600px;
+float: left;
+
+}
+
+#aside {
+background-color: orange;
+width: 25%;
+height: 600px;
+float: right;
+}
+
+#fooster {
+background-color: lightgrey;
+width: 100%;
+height: 100px;
+float: inline-end;
+}
