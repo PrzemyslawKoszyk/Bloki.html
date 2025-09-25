@@ -1,0 +1,12 @@
+nav {
+    background-color: rgb(0, 255, 21);
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+aside {
+    background-color: beige;
+    width: 70%;
+    height: 400px;
+    float: right;
+}

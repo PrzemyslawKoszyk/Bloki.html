@@ -1,0 +1,25 @@
+header {
+    height: 80px;
+    background-color: darkblue;
+    float: left;
+    width: 100%;
+}
+
+nav {
+    height: 50px;
+    background-color: grey;
+    float: left;
+    width: 100%;
+}
+main {
+    height: 300px;
+    width: 60%;
+    background-color: white;
+    float: left;
+}
+aside {
+    height: 300px;
+    width: 40%;
+    background-color: orange;
+    float: right;
+}

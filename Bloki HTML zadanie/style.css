@@ -1,0 +1,15 @@
+header {
+background-color: lightblue;
+height: 100px;
+}
+main {
+  background-color: lightgray;  
+  width: 70%;
+  height: 300px;
+}
+footer {
+    height: 80px;
+    background-color: black;
+    float: left;
+    width: 100%;
+}
