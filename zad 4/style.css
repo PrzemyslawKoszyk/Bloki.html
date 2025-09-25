@@ -1,0 +1,25 @@
+#head {
+    height: 100px;
+    width: 100%;
+    background-color: darkviolet;
+    float: left;
+}
+
+#div1 {
+    width: 33%;
+    height: 250px;
+    background-color: pink;
+    float: left;
+}
+#div2 {
+    width: 33%;
+    height: 250px;
+    background-color: lightgreen;
+    float: left;
+}
+#div3 {
+    width: 33%;
+    height: 250px;
+    background-color: lightblue;    
+    float: left;
+}
